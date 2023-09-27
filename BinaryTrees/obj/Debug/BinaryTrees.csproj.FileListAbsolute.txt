@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Trees and Graphs\BinaryTrees\bin\Debug\BinaryTrees.exe.config
+C:\Users\user\source\repos\Trees and Graphs\BinaryTrees\bin\Debug\BinaryTrees.exe
+C:\Users\user\source\repos\Trees and Graphs\BinaryTrees\bin\Debug\BinaryTrees.pdb
+C:\Users\user\source\repos\Trees and Graphs\BinaryTrees\obj\Debug\BinaryTrees.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Trees and Graphs\BinaryTrees\obj\Debug\BinaryTrees.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Trees and Graphs\BinaryTrees\obj\Debug\BinaryTrees.exe
+C:\Users\user\source\repos\Trees and Graphs\BinaryTrees\obj\Debug\BinaryTrees.pdb

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeImplementation", "TreeImplementation\TreeImplementation.csproj", "{261AFC70-50D6-4A1F-9FD1-61426C5B6A67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreadthFirstSearch", "BreadthSearchFirst\BreadthFirstSearch.csproj", "{21FCE0F9-B229-44C6-A7EE-B0454A3D5823}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryTrees", "BinaryTrees\BinaryTrees.csproj", "{8EDC1256-776B-4B73-92FF-79C0F0A1AF97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderedBinarySearch", "OrderedBinarySearch\OrderedBinarySearch.csproj", "{33BE5529-123B-429D-8DF0-7E33A47E0332}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifierTesr", "Accessor Test\AccessModifierTesr.csproj", "{76E2494F-7F80-4A81-9DBA-7A393BA74C8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphImplementation", "Graph\GraphImplementation.csproj", "{72F031BC-3EAE-4C54-8020-B34327591ADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{261AFC70-50D6-4A1F-9FD1-61426C5B6A67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{261AFC70-50D6-4A1F-9FD1-61426C5B6A67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{261AFC70-50D6-4A1F-9FD1-61426C5B6A67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{261AFC70-50D6-4A1F-9FD1-61426C5B6A67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21FCE0F9-B229-44C6-A7EE-B0454A3D5823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21FCE0F9-B229-44C6-A7EE-B0454A3D5823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21FCE0F9-B229-44C6-A7EE-B0454A3D5823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21FCE0F9-B229-44C6-A7EE-B0454A3D5823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EDC1256-776B-4B73-92FF-79C0F0A1AF97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDC1256-776B-4B73-92FF-79C0F0A1AF97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDC1256-776B-4B73-92FF-79C0F0A1AF97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDC1256-776B-4B73-92FF-79C0F0A1AF97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33BE5529-123B-429D-8DF0-7E33A47E0332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33BE5529-123B-429D-8DF0-7E33A47E0332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33BE5529-123B-429D-8DF0-7E33A47E0332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33BE5529-123B-429D-8DF0-7E33A47E0332}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76E2494F-7F80-4A81-9DBA-7A393BA74C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76E2494F-7F80-4A81-9DBA-7A393BA74C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76E2494F-7F80-4A81-9DBA-7A393BA74C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76E2494F-7F80-4A81-9DBA-7A393BA74C8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72F031BC-3EAE-4C54-8020-B34327591ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72F031BC-3EAE-4C54-8020-B34327591ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72F031BC-3EAE-4C54-8020-B34327591ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72F031BC-3EAE-4C54-8020-B34327591ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BCC9795-07F9-4AD1-B8B7-F307A2A741C4}
+	EndGlobalSection
+EndGlobal

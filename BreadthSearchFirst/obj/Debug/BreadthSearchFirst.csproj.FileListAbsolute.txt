@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Trees and Graphs\BreadthSearchFirst\bin\Debug\BreadthSearchFirst.exe.config
+C:\Users\user\source\repos\Trees and Graphs\BreadthSearchFirst\bin\Debug\BreadthSearchFirst.exe
+C:\Users\user\source\repos\Trees and Graphs\BreadthSearchFirst\bin\Debug\BreadthSearchFirst.pdb
+C:\Users\user\source\repos\Trees and Graphs\BreadthSearchFirst\obj\Debug\BreadthSearchFirst.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Trees and Graphs\BreadthSearchFirst\obj\Debug\BreadthSearchFirst.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Trees and Graphs\BreadthSearchFirst\obj\Debug\BreadthSearchFirst.exe
+C:\Users\user\source\repos\Trees and Graphs\BreadthSearchFirst\obj\Debug\BreadthSearchFirst.pdb

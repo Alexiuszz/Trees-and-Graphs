@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Trees and Graphs\Graph\obj\Debug\GraphImplementation.csprojAssemblyReference.cache
+C:\Users\user\source\repos\Trees and Graphs\Graph\obj\Debug\GraphImplementation.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Trees and Graphs\Graph\bin\Debug\Graph.exe.config
+C:\Users\user\source\repos\Trees and Graphs\Graph\bin\Debug\Graph.exe
+C:\Users\user\source\repos\Trees and Graphs\Graph\bin\Debug\Graph.pdb
+C:\Users\user\source\repos\Trees and Graphs\Graph\obj\Debug\Graph.exe
+C:\Users\user\source\repos\Trees and Graphs\Graph\obj\Debug\Graph.pdb
